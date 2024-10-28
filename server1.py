@@ -4,7 +4,7 @@ import os
 ad = r"E:\\"
 if __name__ == '__main__': 
     # Defining Socket 
-    host = '192.168.1.129'
+    host = 'xxx.xxx.xxx.Xxx'
     port = 8080
     totalclient = 1
     
