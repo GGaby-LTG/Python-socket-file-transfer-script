@@ -8,7 +8,7 @@ from tkinter import *
 message = bytearray()         
 # Creating Client Socket 
 if __name__ == '__main__': 
-    host = '192.168.1.129'
+    host = 'xxx.xxx.Xxx.xxx'
     port = 8080
 
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
